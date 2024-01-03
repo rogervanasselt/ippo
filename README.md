@@ -10,7 +10,7 @@ As a non professional coder I follow with great interest the [Practical Deep Lea
 
 ## Idea
 So I got this idea a while ago that training an **AI model** with CAD drawings en **STEP files** against (our) **cost calculations** and **planning information** (like setup - and runtimes) possibly can work.
-It is in this project I like to find out if this will work. Step bij step (*ippo ippo* in Japanese as a learned form a former boss).
+It is in this project I like to find out if this will work. Step bij step (*ippo ippo* in Japanese as a learned from a former boss).
 
 If you like to work on similar cases, please join me in this project.
 
